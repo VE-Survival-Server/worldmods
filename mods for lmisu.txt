@@ -1,0 +1,78 @@
+✅❓❌
+== GIT HUB ==
+areas: https://github.com/minetest-mods/areas
+autoclose_doors: https://github.com/mt-mods/autoclose_doors/graphs/commit-activity
+concrete: https://github.com/auxautomate/concrete
+digilines: https://github.com/minetest-mods/digilines
+drawers: https://github.com/minetest-mods/drawers/tree/master
+fsc: https://github.com/sofar/fsc
+give_initial_stuff: https://github.com/sofar/fsc
+inspector: https://github.com/minetest-mods/inspector
+irc: https://github.com/minetest-mods/irc
+irc_commands: https://github.com/minetest-mods/irc_commands
+laptop: https://github.com/Gerold55/laptop
+letters: https://github.com/minetest-mods/letters
+lib_mount: https://github.com/minetest-mods/lib_mount
+mese_restriction: https://github.com/mt-historical/mese_restriction
+minetest-3d_armor: https://github.com/minetest-mods/3d_armor
+mobf_trader: https://github.com/Sokomine/mobf_trader
+online_shop: https://github.com/LandonAConway/online_shop
+reboot_warner: https://github.com/mt-mods/reboot_warner
+skinsdb: https://github.com/minetest-mods/skinsdb
+technic: https://github.com/h-v-smacker/technic
+teleport_request: https://github.com/minetest-mods/teleport-request
+travelnet: https://github.com/mt-mods/travelnet
+troll: https://github.com/Niwla23/troll
+vehicle_mash: https://github.com/minetest-mods/vehicle_mash
+vps_blocker: https://github.com/Lejo1/vps_blocker
+xban2: https://github.com/minetest-mods/xban2
+
+== GIT LAB ==
+lurkcoin: https://gitlab.com/luk3yx/minetest-lurkcoin
+minetest-snippets: https://gitlab.com/luk3yx/minetest-snippets
+
+== CHEAPIE ==
+areasprotector: https://cheapiesystems.com/git/areasprotector/
+celevator: https://cheapiesystems.com/git/celevator/
+digiscreen: https://cheapiesystems.com/git/digiscreen/
+digistuff: https://cheapiesystems.com/git/digistuff/
+dropthecaps: https://cheapiesystems.com/git/dropthecaps/
+elevatorparts: https://cheapiesystems.com/git/elevatorparts/
+firealarm_decoronly: https://cheapiesystems.com/git/firealarm_decoronly/
+icemachine: https://cheapiesystems.com/git/icemachine/ 
+lightcontroller: https://cheapiesystems.com/git/lightcontroller/
+ltc4000e: https://cheapiesystems.com/git/ltc4000e/
+mesecons: https://cheapiesystems.com/git/mesecons/
+mesecons_carts: https://cheapiesystems.com/git/mesecons_carts/
+mesecons_display: https://cheapiesystems.com/git/mesecons_display/
+newplayer: https://cheapiesystems.com/git/newplayer/
+pipeworks: https://cheapiesystems.com/git/pipeworks/
+printer: https://cheapiesystems.com/git/printer/
+
+== CODE BERG ==
+mob_horse: https://codeberg.org/tenplus1/mob_horse
+mobs_animal: https://codeberg.org/tenplus1/mobs_animal
+mobs_monster: https://codeberg.org/tenplus1/mobs_monster
+mobs_npc: https://codeberg.org/tenplus1/mobs_npc
+mobs_redo: https://codeberg.org/tenplus1/mobs_redo
+mobs_water: https://codeberg.org/tenplus1/mobs_water
+pbj_pup: https://codeberg.org/tenplus1/pbj_pup
+
+== COULD NOT FIND ==
+bowlingball
+camo
+digiline_routing
+irc_grep
+minislots-modpack
+mobs_creeper
+morelights
+morelights_dim
+mt_morecmds
+names_per_ip
+notice
+ownerhack
+player_count_tracker
+pyramids
+reboot
+restart
+wrench

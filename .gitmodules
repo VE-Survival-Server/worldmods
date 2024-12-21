@@ -1,0 +1,171 @@
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas
+[submodule "autoclose_doors"]
+	path = autoclose_doors
+	url = https://github.com/mt-mods/autoclose_doors/
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/auxautomate/concrete
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers/
+[submodule "fsc"]
+	path = fsc
+	url = https://github.com/sofar/fsc
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/minetest-mods/inspector
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/Gerold55/laptop
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters
+[submodule "lib_mount"]
+	path = lib_mount
+	url = https://github.com/minetest-mods/lib_mount
+[submodule "mese_restriction"]
+	path = mese_restriction
+	url = https://github.com/mt-historical/mese_restriction
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "mobf_trader"]
+	path = mobf_trader
+	url = https://github.com/Sokomine/mobf_trader
+[submodule "online_shop"]
+	path = online_shop
+	url = https://github.com/LandonAConway/online_shop
+[submodule "reboot_warner"]
+	path = reboot_warner
+	url = https://github.com/mt-mods/reboot_warner
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "technic"]
+	path = technic
+	url = https://github.com/h-v-smacker/technic
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet
+[submodule "troll"]
+	path = troll
+	url = https://github.com/Niwla23/troll
+[submodule "vehicle_mash"]
+	path = vehicle_mash
+	url = https://github.com/minetest-mods/vehicle_mash
+[submodule "vps_blocker"]
+	path = vps_blocker
+	url = https://github.com/Lejo1/vps_blocker
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
+[submodule "minetest-lurkcoin"]
+	path = minetest-lurkcoin
+	url = https://gitlab.com/luk3yx/minetest-lurkcoin
+[submodule "minetest-snippets"]
+	path = minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets
+[submodule "areasprotector"]
+	path = areasprotector
+	url = https://cheapiesystems.com/git/areasprotector/
+[submodule "celevator"]
+	path = celevator
+	url = https://cheapiesystems.com/git/celevator/
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff/
+[submodule "dropthecaps"]
+	path = dropthecaps
+	url = https://cheapiesystems.com/git/dropthecaps/
+[submodule "elevatorparts"]
+	path = elevatorparts
+	url = https://cheapiesystems.com/git/elevatorparts
+[submodule "decoronly"]
+	path = decoronly
+	url = https://cheapiesystems.com/git/firealarm
+[submodule "icemachine"]
+	path = icemachine
+	url = https://cheapiesystems.com/git/icemachine
+[submodule "lightcontroller"]
+	path = lightcontroller
+	url = https://cheapiesystems.com/git/lightcontroller
+[submodule "ltc4000e"]
+	path = ltc4000e
+	url = https://cheapiesystems.com/git/ltc4000e/
+[submodule "mesecons"]
+	path = mesecons
+	url = https://cheapiesystems.com/git/mesecons/
+[submodule "mesecons_carts"]
+	path = mesecons_carts
+	url = https://cheapiesystems.com/git/mesecons_carts/
+[submodule "mesecons_display"]
+	path = mesecons_display
+	url = https://cheapiesystems.com/git/mesecons_display/
+[submodule "newplayer"]
+	path = newplayer
+	url = https://cheapiesystems.com/git/newplayer/
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://cheapiesystems.com/git/pipeworks/
+[submodule "printer"]
+	path = printer
+	url = https://cheapiesystems.com/git/printer/
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://codeberg.org/tenplus1/mob_horse
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://codeberg.org/tenplus1/mobs_animal
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://codeberg.org/tenplus1/mobs_monster
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://codeberg.org/tenplus1/mobs_npc
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://codeberg.org/tenplus1/mobs_water
+[submodule "pbj_pup"]
+	path = pbj_pup
+	url = https://codeberg.org/tenplus1/pbj_pup
+[submodule "65c62c6709aa8d36e7f352b797759c74"]
+	path = 65c62c6709aa8d36e7f352b797759c74
+	url = https://gist.github.com/kaeza/65c62c6709aa8d36e7f352b797759c74
+[submodule "digiline_routing"]
+	path = digiline_routing
+	url = https://github.com/numberZero/digiline_routing
+[submodule "bowlingball"]
+	path = bowlingball
+	url = https://github.com/thetaepsilon-gamedev/bowlingball
+[submodule "pyramids"]
+	path = pyramids
+	url = git@github.com:BlockMen/pyramids.git
+[submodule "names_per_ip"]
+	path = names_per_ip
+	url = https://github.com/SmallJoker/names_per_ip.git
+[submodule "minetest-reboot-mod"]
+	path = minetest-reboot-mod
+	url = https://github.com/luk3yx/minetest-reboot-mod
+[submodule "mt_morcmds"]
+	path = mt_morcmds
+	url = https://github.com/ChaosWormz/mt_morcmds.git
