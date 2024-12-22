@@ -169,3 +169,6 @@
 [submodule "minislots"]
 	path = minislots
 	url = https://github.com/mt-mods/minislots
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
