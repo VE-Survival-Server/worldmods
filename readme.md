@@ -12,7 +12,7 @@ Installing Locally
 
 You may then wish to move the VE-S\_mods folder to `~/.minetest/mods` or `~/.minetest/worlds/NAME/worldmods` for testing. Example `minetest.conf` and `world.mt` files have been provided, though these may be out of date. You should copy these to the appropriate locations.
 
-Updating your VE-C\worldmods repo
+Updating your VE-S\worldmods repo
 ============================
 
 1. `git pull`
