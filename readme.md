@@ -1,5 +1,3 @@
-testestest
-
 Mod of submodules of mods used on VE-Survial
 
 Note: It is preferable to *not* make updates directly on the VE-Survival server, and instead only
