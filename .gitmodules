@@ -166,3 +166,6 @@
 [submodule "mt_morcmds"]
 	path = mt_morcmds
 	url = https://github.com/ChaosWormz/mt_morcmds.git
+[submodule "minislots"]
+	path = minislots
+	url = https://github.com/mt-mods/minislots
