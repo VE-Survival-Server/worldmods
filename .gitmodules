@@ -148,9 +148,6 @@
 [submodule "pbj_pup"]
 	path = pbj_pup
 	url = https://codeberg.org/tenplus1/pbj_pup
-[submodule "65c62c6709aa8d36e7f352b797759c74"]
-	path = 65c62c6709aa8d36e7f352b797759c74
-	url = https://gist.github.com/kaeza/65c62c6709aa8d36e7f352b797759c74
 [submodule "digiline_routing"]
 	path = digiline_routing
 	url = https://github.com/numberZero/digiline_routing
