@@ -121,9 +121,6 @@
 [submodule "newplayer"]
 	path = newplayer
 	url = https://cheapiesystems.com/git/newplayer/
-[submodule "pipeworks"]
-	path = pipeworks
-	url = https://cheapiesystems.com/git/pipeworks/
 [submodule "printer"]
 	path = printer
 	url = https://cheapiesystems.com/git/printer/
@@ -175,3 +172,6 @@
 [submodule "techage_forceload"]
 	path = techage_forceload
 	url = https://cheapiesystems.com/git/techage_forceload/
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/mt-mods/pipeworks
