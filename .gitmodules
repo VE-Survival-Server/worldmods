@@ -172,3 +172,6 @@
 [submodule "xcompat"]
 	path = xcompat
 	url = https://github.com/mt-mods/xcompat
+[submodule "techage_forceload"]
+	path = techage_forceload
+	url = https://cheapiesystems.com/git/techage_forceload/
