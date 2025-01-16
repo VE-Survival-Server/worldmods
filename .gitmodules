@@ -175,3 +175,6 @@
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://github.com/mt-mods/pipeworks
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib
