@@ -151,9 +151,6 @@
 [submodule "bowlingball"]
 	path = bowlingball
 	url = https://github.com/thetaepsilon-gamedev/bowlingball
-[submodule "pyramids"]
-	path = pyramids
-	url = git@github.com:BlockMen/pyramids.git
 [submodule "names_per_ip"]
 	path = names_per_ip
 	url = https://github.com/SmallJoker/names_per_ip.git
@@ -178,3 +175,6 @@
 [submodule "fakelib"]
 	path = fakelib
 	url = https://github.com/OgelGames/fakelib
+[submodule "minetest_tsm_pyramids"]
+	path = minetest_tsm_pyramids
+	url = https://codeberg.org/Wuzzy/minetest_tsm_pyramids
