@@ -178,3 +178,9 @@
 [submodule "minetest_tsm_pyramids"]
 	path = minetest_tsm_pyramids
 	url = https://codeberg.org/Wuzzy/minetest_tsm_pyramids
+[submodule "mooncontroller"]
+	path = mooncontroller
+	url = https://github.com/mt-mods/mooncontroller
+[submodule "mooncontroller_convert"]
+	path = mooncontroller_convert
+	url = https://cheapiesystems.com/git/mooncontroller_convert/
