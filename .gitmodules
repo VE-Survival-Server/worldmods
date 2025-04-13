@@ -63,7 +63,7 @@
 	url = https://github.com/mt-mods/travelnet
 [submodule "troll"]
 	path = troll
-	url = https://github.com/Niwla23/troll
+	url = https://github.com/rollerozxa/troll
 [submodule "vehicle_mash"]
 	path = vehicle_mash
 	url = https://github.com/minetest-mods/vehicle_mash
