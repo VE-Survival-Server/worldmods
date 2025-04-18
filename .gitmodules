@@ -54,7 +54,7 @@
 	url = https://github.com/minetest-mods/skinsdb
 [submodule "technic"]
 	path = technic
-	url = https://github.com/h-v-smacker/technic
+	url = https://github.com/mt-mods/technic
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
