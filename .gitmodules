@@ -184,3 +184,6 @@
 [submodule "mooncontroller_convert"]
 	path = mooncontroller_convert
 	url = https://cheapiesystems.com/git/mooncontroller_convert/
+[submodule "technic_adminnodes"]
+	path = technic_adminnodes
+	url = https://cheapiesystems.com/git/technic_adminnodes/
