@@ -187,3 +187,6 @@
 [submodule "technic_adminnodes"]
 	path = technic_adminnodes
 	url = https://cheapiesystems.com/git/technic_adminnodes/
+[submodule "advtouchscreen"]
+	path = advtouchscreen
+	url = https://cheapiesystems.com/git/advtouchscreen
