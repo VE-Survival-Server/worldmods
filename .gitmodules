@@ -90,7 +90,7 @@
 	url = https://cheapiesystems.com/git/digiscreen/
 [submodule "digistuff"]
 	path = digistuff
-	url = https://cheapiesystems.com/git/digistuff/
+	url = https://github.com/mt-mods/digistuff
 [submodule "dropthecaps"]
 	path = dropthecaps
 	url = https://cheapiesystems.com/git/dropthecaps/
