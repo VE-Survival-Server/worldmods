@@ -190,3 +190,6 @@
 [submodule "advtouchscreen"]
 	path = advtouchscreen
 	url = https://cheapiesystems.com/git/advtouchscreen
+[submodule "vizlib"]
+	path = vizlib
+	url = https://github.com/OgelGames/vizlib.git
