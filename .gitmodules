@@ -193,3 +193,9 @@
 [submodule "vizlib"]
 	path = vizlib
 	url = https://github.com/OgelGames/vizlib.git
+[submodule "laptop_extend_pack_2"]
+	path = laptop_extend_pack_2
+	url = https://github.com/Chrithon/laptop_extend_pack_2.git
+[submodule "PCPack1"]
+	path = PCPack1
+	url = https://github.com/Gerold55/PCPack1.git
