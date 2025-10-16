@@ -111,7 +111,7 @@
 	url = https://cheapiesystems.com/git/ltc4000e/
 [submodule "mesecons"]
 	path = mesecons
-	url = https://cheapiesystems.com/git/mesecons/
+	url = https://github.com/minetest-mods/mesecons.git 
 [submodule "mesecons_carts"]
 	path = mesecons_carts
 	url = https://cheapiesystems.com/git/mesecons_carts/
