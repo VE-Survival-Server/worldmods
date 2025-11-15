@@ -199,3 +199,6 @@
 [submodule "PCPack1"]
 	path = PCPack1
 	url = https://github.com/Gerold55/PCPack1.git
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://github.com/2424barrier/caverealms_lite.git
