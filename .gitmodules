@@ -202,3 +202,6 @@
 [submodule "caverealms_lite"]
 	path = caverealms_lite
 	url = https://github.com/2424barrier/caverealms_lite.git
+[submodule "mesecons_better_vertical"]
+	path = mesecons_better_vertical
+	url = https://cheapiesystems.com/git/mesecons_better_vertical.git
