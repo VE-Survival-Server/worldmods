@@ -205,3 +205,6 @@
 [submodule "mesecons_better_vertical"]
 	path = mesecons_better_vertical
 	url = https://cheapiesystems.com/git/mesecons_better_vertical.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
