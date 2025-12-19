@@ -208,3 +208,12 @@
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
+[submodule "notice"]
+	path = notice
+	url = https://github.com/BlockCityCreative/notice.git
+[submodule "digistuff_nbextras"]
+	path = digistuff_nbextras
+	url = https://cheapiesystems.com/git/digistuff_nbextras.git
+[submodule "motorbike"]
+	path = motorbike
+	url = https://github.com/Extex101/motorbike.git
