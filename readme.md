@@ -1,4 +1,4 @@
-Mod of submodules of mods used on VE-Survial
+Mod of submodules of mods used on VE-Survival
 
 Note: It is preferable to *not* make updates directly on the VE-Survival server, and instead only
 pull in updates made elsewhere. Emergencies happen though, and cleaning things up isn't too hard.
@@ -30,7 +30,7 @@ Upgrading a subrepo
 1. `git submodule update --recursive --remote SUBREPO_NAME`
 2. `git add SUBREPO_NAME .gitmodules`
 3. `git commit -m 'updated SUBREPO'`
-4. `git push github master`
+4. `git push github main`
 
 Upgrading all subrepos
 ======================
@@ -38,14 +38,14 @@ Upgrading all subrepos
 1. `git submodule update --recursive --remote`
 2. `git add .`
 3. `git commit -m 'updated all'`
-4. `git push github master`
+4. `git push github main`
 
 Adding a new subrepo
 ====================
 
 1. `git submodule add http://path/to/git/repo`
 2. `git commit -m 'added new repo'`
-3. `git push github master`
+3. `git push github main`
 
 Making changes inside a subrepo
 ===============================
@@ -57,11 +57,11 @@ This is only for making changes to a repo or fork that you have write permission
 3. make changes
 4. `git add changed_file`
 5. `git commit -m 'changed something'`
-6. `git push github HEAD:master`
+6. `git push github HEAD:main`
 7. `cd ..`
 8. `git add subrepo`
 9. `git commit -m 'updated subrepo'`
-10. `git push github master`
+10. `git push github main`
 
 Pointing a repo at a different fork
 ===================================
@@ -72,7 +72,7 @@ Pointing a repo at a different fork
 4. `git submodule update --recursive --remote MODULE_NAME`
 5. `git add .gitmodules MODULE_NAME`
 6. `git commit -m 'pointed module_name at fork ...'`
-7. `git push github master`
+7. `git push github main`
 
 Pointing a repo at a different branch
 =====================================
@@ -80,4 +80,4 @@ Pointing a repo at a different branch
 1. `git submodule set-branch -b branch_name module_name`
 2. `git add .gitmodules module_name`
 3. `git commit -m 'set module_name to track branch_name'`
-4. `git push github master`
+4. `git push github main`
