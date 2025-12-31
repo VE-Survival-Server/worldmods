@@ -220,3 +220,6 @@
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/tigris-mt/elevator.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack.git
