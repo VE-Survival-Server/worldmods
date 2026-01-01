@@ -75,10 +75,10 @@
 	url = https://github.com/minetest-mods/xban2
 [submodule "minetest-lurkcoin"]
 	path = minetest-lurkcoin
-	url = https://gitlab.com/luk3yx/minetest-lurkcoin
+	url = https://gitlab.com/luk3yx/minetest-lurkcoin.git/
 [submodule "minetest-snippets"]
 	path = minetest-snippets
-	url = https://gitlab.com/luk3yx/minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets.git/
 [submodule "areasprotector"]
 	path = areasprotector
 	url = https://cheapiesystems.com/git/areasprotector/
