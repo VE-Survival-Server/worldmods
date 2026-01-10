@@ -223,3 +223,6 @@
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
+[submodule "wrench"]
+	path = wrench
+	url = https://github.com/mt-mods/wrench.git
