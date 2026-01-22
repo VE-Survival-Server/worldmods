@@ -145,9 +145,6 @@
 [submodule "digiline_routing"]
 	path = digiline_routing
 	url = https://github.com/numberZero/digiline_routing
-[submodule "bowlingball"]
-	path = bowlingball
-	url = https://github.com/thetaepsilon-gamedev/bowlingball
 [submodule "names_per_ip"]
 	path = names_per_ip
 	url = https://github.com/SmallJoker/names_per_ip.git
