@@ -7,9 +7,6 @@
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/auxautomate/concrete
-[submodule "digilines"]
-	path = digilines
-	url = https://github.com/minetest-mods/digilines
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers/
@@ -52,15 +49,9 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb
-[submodule "technic"]
-	path = technic
-	url = https://github.com/mt-mods/technic
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
-[submodule "travelnet"]
-	path = travelnet
-	url = https://github.com/mt-mods/travelnet
 [submodule "troll"]
 	path = troll
 	url = https://github.com/rollerozxa/troll
@@ -88,9 +79,6 @@
 [submodule "digiscreen"]
 	path = digiscreen
 	url = https://cheapiesystems.com/git/digiscreen/
-[submodule "digistuff"]
-	path = digistuff
-	url = https://github.com/mt-mods/digistuff
 [submodule "dropthecaps"]
 	path = dropthecaps
 	url = https://cheapiesystems.com/git/dropthecaps/
@@ -106,9 +94,6 @@
 [submodule "ltc4000e"]
 	path = ltc4000e
 	url = https://cheapiesystems.com/git/ltc4000e/
-[submodule "mesecons"]
-	path = mesecons
-	url = https://github.com/minetest-mods/mesecons.git 
 [submodule "mesecons_carts"]
 	path = mesecons_carts
 	url = https://cheapiesystems.com/git/mesecons_carts/
@@ -157,15 +142,9 @@
 [submodule "minislots"]
 	path = minislots
 	url = https://github.com/mt-mods/minislots
-[submodule "xcompat"]
-	path = xcompat
-	url = https://github.com/mt-mods/xcompat
 [submodule "techage_forceload"]
 	path = techage_forceload
 	url = https://cheapiesystems.com/git/techage_forceload/
-[submodule "pipeworks"]
-	path = pipeworks
-	url = https://github.com/mt-mods/pipeworks
 [submodule "fakelib"]
 	path = fakelib
 	url = https://github.com/OgelGames/fakelib
