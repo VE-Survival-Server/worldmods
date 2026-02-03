@@ -108,25 +108,25 @@
 	url = https://cheapiesystems.com/git/printer/
 [submodule "mob_horse"]
 	path = mob_horse
-	url = https://codeberg.org/tenplus1/mob_horse
+	url = https://github.com/minetest-mirrors/mob_horse.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://codeberg.org/tenplus1/mobs_animal
+	url = https://github.com/minetest-mirrors/mobs_animal.git
 [submodule "mobs_monster"]
 	path = mobs_monster
-	url = https://codeberg.org/tenplus1/mobs_monster
+	url = https://github.com/minetest-mirrors/mobs_monster.git
 [submodule "mobs_npc"]
 	path = mobs_npc
-	url = https://codeberg.org/tenplus1/mobs_npc
+	url = https://github.com/minetest-mirrors/mobs_npc.git
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://codeberg.org/tenplus1/mobs_redo
+	url = https://github.com/minetest-mirrors/mobs_redo.git
 [submodule "mobs_water"]
 	path = mobs_water
-	url = https://codeberg.org/tenplus1/mobs_water
+	url = https://github.com/minetest-mirrors/mobs_water.git
 [submodule "pbj_pup"]
 	path = pbj_pup
-	url = https://codeberg.org/tenplus1/pbj_pup
+	url = https://github.com/minetest-mirrors/pbj_pup.git
 [submodule "digiline_routing"]
 	path = digiline_routing
 	url = https://github.com/numberZero/digiline_routing
